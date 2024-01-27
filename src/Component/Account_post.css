@@ -1,0 +1,13 @@
+.back-ground-color{
+    background: #EFEAE2 !important;
+    
+}
+.post_img{
+    width: 100%;
+    height: 86%;
+    margin-bottom: 0px !important;
+}
+.post_label{
+    font-size: xx-large;
+    font-weight: 700;
+}
